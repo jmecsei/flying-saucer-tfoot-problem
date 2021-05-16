@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+    height: 750px;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+table thead td {
+    height: 60px;
+    background: aqua;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+table tbody td {
+    background: greenyellow;
+}
+
+table tfoot td {
+    height: 60px;
+    background: aqua;
+    text-align: center;
+    border-top: 2px solid black;
+}
